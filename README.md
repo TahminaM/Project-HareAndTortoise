@@ -30,7 +30,7 @@ After each line is displayed, test for whether either animal has reached or pass
          
          
 (9.2) If the hare wins, display
-         Yuck, hare wins.
+         Yuck, hare wins!
          
          
 (9.3) If both animal win on the same tick of the clock, you can print out
